@@ -1,0 +1,3 @@
+SELECT extname, extversion
+FROM pg_extension
+ORDER BY extname;
